@@ -1,4 +1,4 @@
-periodic_table_dict = [
+periodic_table_dict = {
     # [symbol, name, atomic mass]
         "Ac": ["Actinium", 227],
         "Ag": ["Silver", 107.8682],
@@ -94,4 +94,4 @@ periodic_table_dict = [
         "Yb": ["Ytterbium", 173.054],
         "Zn": ["Zinc", 65.38],
         "Zr": ["Zirconium", 91.224]
-    ]
+    }
